@@ -1,0 +1,23 @@
+.match {
+  background-color: rgb(0, 255, 0, 0.3);
+}
+
+.match h1 {
+  color: #00ff00;
+}
+
+.not-match {
+  background-color: rgba(255, 0, 0, 0.3);
+}
+
+.not-match h1 {
+  color: #ff0000;
+}
+
+li {
+  color: white;
+}
+
+button {
+  margin: 4vw 0;
+}
